@@ -268,7 +268,7 @@ END
 ```
  
 ## Results of simulation :
-![output](?raw=true)
+![output](https://github.com/VINUTHNA-2004/Lab-Ex.-No---5-Design-simulate-an-environment-for-Robot-Painting-using-Robo-DK/blob/main/d4.png?raw=true)
  
 ## Results :
 To simulate the painting environment for a serial manipluator is done successfully using robo DK software.
